@@ -2,12 +2,15 @@
   "metadata": {
     "PurchaseListID": "PL_20260610_005",
     "CreatedOn": "2026-06-10T10:47:52.1832063Z",
-    "CreatedBy": "k64121947", 
+    "CreatedBy": "k64121947",
+    "EditedBy": "k64121947",
+    "EditedOn": "2026-06-10T11:56:22.0301084Z",
     "TotalEstimation": 106.49,
-    "Status": "Draft",
+    "Status": "Dropped",
     "PlannedDate": "2026-06-10T00:00:00",
     "Remarks": "test count N",
-    "Deducted": true
+    "Deducted": false,
+    "Approval": "Rejected"
   },
   "materials": [
     {
