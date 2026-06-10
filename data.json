@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "PurchaseListID": "PL_20260610_005",
+    "CreatedOn": "2026-06-10T10:47:52.1832063Z",
+    "CreatedBy": "k64121947",
+    "TotalEstimation": 106.49,
+    "Status": "Draft",
+    "PlannedDate": "2026-06-10T00:00:00",
+    "Remarks": "test count N",
+    "Deducted": true
+  },
+  "materials": [
+    {
+      "SlNo": 1,
+      "MID": "MID20320",
+      "Title": "BRIDGE RECTIFIER (1PHASE 800V 10A)",
+      "PartNumber": "1801-TS10K80-ND",
+      "Manufacturer": "Taiwan Semiconductor Corporation",
+      "SupplierType": null,
+      "SupplierName": null,
+      "Quantity": 1,
+      "UnitCost": 106.49,
+      "Estimation": 106.49
+    }
+  ]
+}
